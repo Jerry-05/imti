@@ -6,3 +6,4 @@ git branch -M main
 git remote add origin https://github.com/Jerry-05/roopa.git
 git push -u origin main
 roopa is waste
+roopa is great
